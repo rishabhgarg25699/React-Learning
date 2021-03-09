@@ -1,0 +1,19 @@
+{
+  "name": "practise",
+  "version": "1.0.0",
+  "description": "Project For Learning Reactjs",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Rishabh Garg",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
